@@ -1,5 +1,5 @@
 ## Jersey Related Projects
-Projects that are related to Jersey in somewhere have the topic `jerseyci`.
+Projects that are related to Jersey in some way have the topic `jerseyci`.
 ### Websites
 * [Vehicle Search](https://vehicle-search.glitch.je) - [Source](https://github.com/glitchjsy/vehicle-search) - Look up Jersey vehicle information from a number plate
 
