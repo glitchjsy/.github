@@ -2,6 +2,7 @@
 Projects that are related to Jersey in some way have the topic `jerseyci`.
 ### Websites
 * [Vehicle Search](https://vehicle-search.glitch.je) - [Source](https://github.com/glitchjsy/vehicle-search) - Look up Jersey vehicle information from a number plate using your phone camera
+* [CLS Queues](https://cls.glitch.je) - [Source](https://github.com/glitchjsy/cls-queues) - View waiting times in Customer & Local Services
 
 ### Open Data
 * [Data API](https://github.com/glitchjsy/data-api) - Public API to access open data
