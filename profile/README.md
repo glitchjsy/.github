@@ -2,7 +2,6 @@
 Projects that are related to Jersey in some way have the topic `jerseyci`.
 ### Websites
 * [Vehicle Search](https://vehicle-search.glitch.je) - [Source](https://github.com/glitchjsy/vehicle-search) - Look up Jersey vehicle information from a number plate using your phone camera
-* [Clip](https://clip.glitch.je) - [Source](https://github.com/glitchjsy/clip) - Copy & paste between devices
 
 ### Open Data
 * [Data API](https://github.com/glitchjsy/data-api) - Public API to access open data
@@ -17,3 +16,4 @@ Projects that are related to Jersey in some way have the topic `jerseyci`.
 
 ## Other Projects
 * [QR Code Generator](https://qrcode.glitch.je) - [Source](https://github.com/glitchjsy/qrcode) - A simple QR code generator
+* [Clip](https://clip.glitch.je) - [Source](https://github.com/glitchjsy/clip) - Copy & paste between devices
